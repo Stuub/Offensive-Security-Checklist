@@ -37,6 +37,8 @@ By following this checklist, you will have a structured approach to offensive se
 
 Feel free to explore each category and dive into the detailed information provided.
 
+Please do take heed that the populated data is still in its early stages and there are developments yet to be added as time goes on. 
+
 ## RSS Feed for CVE Updates
 
 Stay up to date with the latest CVE (Common Vulnerabilities and Exposures) updates by checking out our RSS feed. It provides real-time information on vulnerabilities and helps you stay informed about potential risks.
