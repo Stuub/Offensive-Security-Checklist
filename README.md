@@ -41,12 +41,8 @@ Feel free to explore each category and dive into the detailed information provid
 
 Stay up to date with the latest CVE (Common Vulnerabilities and Exposures) updates by checking out our RSS feed. It provides real-time information on vulnerabilities and helps you stay informed about potential risks.
 
-[![CVE Updates](https://www.feedgrabbr.com/inframe/?widgetid=8ec1f79595ea8c33e74d9183f)]
-
 Data extracted from [CVEDetails](https://www.cvedetails.com)
 
 Feel free to contribute to this repository and make it even more comprehensive. Happy hacking!
 
 ---
-
-Please note that this is just a suggestion, and you can customize the readme according to your preferences and requirements.
