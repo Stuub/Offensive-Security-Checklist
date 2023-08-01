@@ -28,6 +28,8 @@ This category focuses on the analysis of software and systems to understand thei
 
 By following this checklist, you will have a structured approach to offensive security, ensuring that you cover all the necessary aspects of a successful operation.
 
+In each of these categories, I provide widely utilised tools in Offensive Security practices and give key information and examples of how they can be used in a Pen Test environment. 
+
 ## Checklist Categories
 
 - [Recon](Recon.md)
@@ -44,7 +46,7 @@ By following this checklist, you will have a structured approach to offensive se
 
 Feel free to explore each category and dive into the detailed information provided.
 
-Please do take heed that the populated data is still in its early stages and there are developments yet to be added as time goes on. 
+Please do take heed that the populated data is still in its early stages and there are developments yet to be added as time goes on. Feel more than welcome to contact me any requests to be added!
 
 ## RSS Feed for CVE Updates
 
