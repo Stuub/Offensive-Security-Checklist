@@ -35,6 +35,8 @@ By following this checklist, you will have a structured approach to offensive se
 - [Post-Exploitation](Post-Exploitation.md)
 - [Reverse Engineering & Debugging](Reverse%20Engineering%20&%20Debugging.md)
 
+![](https://i.gyazo.com/0d553df4a58254742df71ddeb949f6b0.mp4)
+
 Feel free to explore each category and dive into the detailed information provided.
 
 Please do take heed that the populated data is still in its early stages and there are developments yet to be added as time goes on. 
