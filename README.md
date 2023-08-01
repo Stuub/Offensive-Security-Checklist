@@ -30,10 +30,10 @@ By following this checklist, you will have a structured approach to offensive se
 
 ## Checklist Categories
 
-- [Recon](Recon)
-- [Exploitation](Exploitation)
-- [Post-Exploitation](Post-Exploitation)
-- [Reverse Engineering & Debugging](Reverse%20Engineering%20&%20Debugging)
+- [Recon](Recon.md)
+- [Exploitation](Exploitation.md)
+- [Post-Exploitation](Post-Exploitation.md)
+- [Reverse Engineering & Debugging](Reverse%20Engineering%20&%20Debugging.md)
 
 Feel free to explore each category and dive into the detailed information provided.
 
