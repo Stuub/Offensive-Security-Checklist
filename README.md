@@ -54,6 +54,9 @@ Data extracted from [CVEDetails](https://www.cvedetails.com)
 
 The current RSS Feed shows new information daily! Could increase this further if people would prefer that :)
 
+
+
+
 Feel free to contribute to this repository and make it even more comprehensive. Happy hacking!
 
 ---
