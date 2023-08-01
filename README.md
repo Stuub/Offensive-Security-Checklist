@@ -35,7 +35,11 @@ By following this checklist, you will have a structured approach to offensive se
 - [Post-Exploitation](Post-Exploitation.md)
 - [Reverse Engineering & Debugging](Reverse%20Engineering%20&%20Debugging.md)
 
-![](https://i.gyazo.com/0d553df4a58254742df71ddeb949f6b0.mp4)
+
+
+https://github.com/Stuub/Offensive-Security-Checklist/assets/60468836/56fc4fd4-3104-4d69-a29c-c4ad7cc99a7d
+
+
 
 Feel free to explore each category and dive into the detailed information provided.
 
