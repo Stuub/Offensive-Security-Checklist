@@ -41,7 +41,7 @@ Feel free to explore each category and dive into the detailed information provid
 
 Stay up to date with the latest CVE (Common Vulnerabilities and Exposures) updates by checking out our RSS feed. It provides real-time information on vulnerabilities and helps you stay informed about potential risks.
 
-[![CVE Updates](https://img.icons8.com/?size=512&id=184&format=png&color=FFFFFF&opacity=0)](https://www.feedgrabbr.com/inframe/?widgetid=8ec1f79595ea8c33e74d9183f)
+[![CVE Updates](https://www.feedgrabbr.com/inframe/?widgetid=8ec1f79595ea8c33e74d9183f)]
 
 Data extracted from [CVEDetails](https://www.cvedetails.com)
 
