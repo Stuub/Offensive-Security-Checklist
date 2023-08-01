@@ -37,7 +37,8 @@ By following this checklist, you will have a structured approach to offensive se
 
 
 
-![landing-page](https://github.com/Stuub/Offensive-Security-Checklist/assets/60468836/56fc4fd4-3104-4d69-a29c-c4ad7cc99a7d)
+![0d553df4a58254742df71ddeb949f6b0](https://github.com/Stuub/Offensive-Security-Checklist/assets/60468836/8240c646-ee1f-43bc-b1d9-2a3ec94b9082)
+
 
 
 
